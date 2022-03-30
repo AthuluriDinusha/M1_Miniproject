@@ -1,2 +1,3 @@
 Hello Hai
 This is Dinusha....
+# solo learn simpli learn skill up learn first day on git hub
