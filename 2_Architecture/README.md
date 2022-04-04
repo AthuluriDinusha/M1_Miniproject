@@ -1,8 +1,8 @@
 ARCHITECTURE
-Behaviour Diagram
-Structuralm Diagram
+    Behaviour Diagram
+    Structuralm Diagram
 BEHAVIOUR DIAGRAM
-Tools used for making Behaviour diagram
+    Tools used for making Behaviour diagram
 
 Draw.io
 
